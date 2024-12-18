@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "name": "Taj",
+      "address": "Mumbai",
+      "email": "taj@gmai.com",
+      "services": "chai",
+      "mobile": 7896541237
+    },
+    {
+      "id": "2",
+      "name": "Raj",
+      "address": "satara",
+      "email": "raj@gmail.com",
+      "services": "cofee",
+      "mobile": 7412589638
+    },
+    {
+      "id": 1,
+      "name": "The Orchid",
+      "address": "pune",
+      "email": "orchid@gmail.com",
+      "services": "Indian",
+      "mobile": 1478253695
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 999999999,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "id": "97ba",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "mobile": 8483040378,
+      "password": "aniket"
+    },
+    {
+      "id": "f199",
+      "name": "nisha",
+      "email": "Marvellous@gmail.com",
+      "mobile": 785452111111,
+      "password": "realme"
+    },
+    {
+      "id": "8896",
+      "name": "Sanjay",
+      "email": "Sanjay@gmail.com",
+      "mobile": 7845123698,
+      "password": "sanjay"
+    },
+    {
+      "id": "b1af",
+      "name": "Omkar",
+      "email": "Omkar@gmail.com",
+      "mobile": 8878541265,
+      "password": "omkar@25"
+    },
+    {
+      "id": "b37e",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "mobile": 7894561230,
+      "password": "abc"
+    },
+    {
+      "id": "6fbe",
+      "name": "purva",
+      "email": "xyz@gmail.com",
+      "mobile": 789,
+      "password": ""
+    },
+    {
+      "id": "7eaa",
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": ""
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
